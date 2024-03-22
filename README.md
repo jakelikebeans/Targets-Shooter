@@ -11,7 +11,7 @@ Along with this, I would like to give the player specific instructions on what t
 
 ## UI and Logic Planning
 
-<img src="https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/416fa399-3282-49ce-8532-c7ef23471024" width="800" height="800" >
+<img src="https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/416fa399-3282-49ce-8532-c7ef23471024"  >
 
 ## Images
 
