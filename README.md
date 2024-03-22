@@ -5,6 +5,8 @@
 This target shooter game is a simple 2d game where you have to shoot targets with a gun. 
 It is a console based game that will be created in processing.
 I want to include a start screen, a score counter, and an end screen if the player reaches the amount of targets needed.
+Additionally, I would like to keep the display quite simple since overcomplicating a display will often distract the player resulting in them losing.
+
 
 ## UI and Logic Planning
 
