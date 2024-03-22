@@ -11,6 +11,7 @@ Along with this, I would like to give the player specific instructions on what t
 
 ## UI and Logic Planning
 
+<img src="https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/416fa399-3282-49ce-8532-c7ef23471024" width="500" height="500" >
 
 ## Images
 
@@ -19,3 +20,5 @@ Along with this, I would like to give the player specific instructions on what t
 <img src = "https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/a7af0a3a-b287-49cd-8c25-f1d41753e871" width="300" height="300">
 
 <img src = "https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/e3f774a3-b0ed-45ec-8a19-a5c95b708cc7">
+
+
