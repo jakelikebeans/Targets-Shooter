@@ -4,7 +4,7 @@
 ## Description
 This target shooter game is a simple 2d game where you have to shoot targets with a gun.
 
-## Mockup
+## UI and Logic Planning
 
 
 ## Images
