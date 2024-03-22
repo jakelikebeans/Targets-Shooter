@@ -22,4 +22,4 @@ Along with this, I would like to give the player specific instructions on what t
 <img src = "https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/e3f774a3-b0ed-45ec-8a19-a5c95b708cc7">
 
 
-<img src = "https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/987e74cd-18f5-4e36-adc1-22385beeedb9" width= "300" height = "300" >
+<img src = "https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/987e74cd-18f5-4e36-adc1-22385beeedb9" width= "500" height = "500" >
