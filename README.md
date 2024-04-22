@@ -12,7 +12,9 @@ Finally, it is visually stimulating game with high end graphics and handcrafted/
 
 ## UI and Logic Planning
 
-<img src="https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/416fa399-3282-49ce-8532-c7ef23471024"  >
+<img width="467" alt="Screenshot 2024-04-22 at 12 02 13 PM" src="https://github.com/jakelikebeans/Targets-Shooter/assets/120538859/4ca437fb-f924-49f6-a92e-34a9d9f7ee2e">
+
+
 
 ## Images
 
